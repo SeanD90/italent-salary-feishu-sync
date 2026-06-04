@@ -1,0 +1,36 @@
+# 敏感配置（包含账号密码和飞书密钥）
+config.py
+
+# 日志
+logs/
+
+# 截图
+screenshots/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 调试产物
+api_resp_*.json
+
+# 系统文件
+Thumbs.db
+.DS_Store
