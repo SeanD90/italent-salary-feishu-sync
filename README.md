@@ -4,8 +4,6 @@
 
 Automated salary data synchronization from Beisen iTalent HR system to Feishu (Lark) Bitable.
 
-📋 [Feishu Bitable Template](https://my.feishu.cn/base/HWW0b6wyPaOw4Ks99EhcErQXnFb?table=tblsqqMRAxu7mVYO&view=vew4YhP9mc)
-
 ## Overview
 
 This tool automatically fetches salary data from the Beisen iTalent HR system via browser automation (Playwright) and syncs it to a Feishu Bitable spreadsheet. It runs on a daily schedule (default: 22:32) and handles three separate tables:
