@@ -2,7 +2,6 @@
 
 [🌐 English Documentation](README.md)
 
-📋 [飞书多维表格模板](https://my.feishu.cn/base/HWW0b6wyPaOw4Ks99EhcErQXnFb?table=tblsqqMRAxu7mVYO&view=vew4YhP9mc)
 
 ## 一、项目概述
 
