@@ -1,5 +1,7 @@
 # italent-salary-feishu-sync
 
+[🇨🇳 中文文档 / Chinese Documentation](README_CN.md)
+
 Automated salary data synchronization from Beisen iTalent HR system to Feishu (Lark) Bitable.
 
 ## Overview

@@ -1,5 +1,7 @@
 # 薪酬同步工具 — 使用说明
 
+[🌐 English Documentation](README.md)
+
 ## 一、项目概述
 
 本工具用于将北森 iTalent HR 系统中的薪酬数据，自动同步到飞书多维表格。
