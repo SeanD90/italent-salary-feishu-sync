@@ -2,6 +2,8 @@
 
 [🌐 English Documentation](README.md)
 
+📋 [飞书多维表格模板](https://my.feishu.cn/base/HWW0b6wyPaOw4Ks99EhcErQXnFb?table=tblsqqMRAxu7mVYO&view=vew4YhP9mc)
+
 ## 一、项目概述
 
 本工具用于将北森 iTalent HR 系统中的薪酬数据，自动同步到飞书多维表格。
